@@ -3,11 +3,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/sergio0al?style=social) <!--![GitHub User's stars](https://img.shields.io/github/stars/sergio0al?style=social)--> <img src="https://komarev.com/ghpvc/?username=sergio0al" alt="sergio0al" />
 
 
-About Me
+<h3>About Me</h3>
 <hr>
 
 
-<pre aling="right">
+<pre>
 💻 I am currently studying *Desarrollo de Aplicaciones Web (DAW)*  
 🎓 I completed *Sistemas Microinformáticos y Redes (SMX)*
 🧠 I have a strong interest in Web Development and Software Engineering  
@@ -17,8 +17,7 @@ About Me
 </pre>
 
 
-<div aling="left">
-        <h3>Languages:</h3>
+<div>
         <p style="text-align: left;">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
@@ -28,7 +27,6 @@ About Me
                 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">
                 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
         </p>
-        <h3>Tools:</h3>
         <p>
                 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
                 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel">
