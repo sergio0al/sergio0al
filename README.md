@@ -14,7 +14,8 @@
 🌐 Familiar with HTML, CSS, JavaScript, and basic networking concepts  
 🚀 Eager to keep improving and build real-world projects  
 </pre>
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](sergioalonso00075@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/sergio0.ar/)
 
 ![sergio0al Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio0al&theme=tokyonight&layout=compact)
 
