@@ -5,8 +5,7 @@
 <hr>
 
 
-<div style="display: flex;">
-<pre>
+<pre aling="right">
 💻 I am currently studying *Desarrollo de Aplicaciones Web (DAW)*  
 🎓 I completed *Sistemas Microinformáticos y Redes (SMX)*
 🧠 I have a strong interest in Web Development and Software Engineering  
@@ -16,8 +15,8 @@
 </pre>
 
 
-<div>
-<h3>Languages:</h3>
+<div aling="left">
+        <h3>Languages:</h3>
         <p style="text-align: left;">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
@@ -37,7 +36,7 @@
                 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure-devops">
                 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
         </p>
-</div>
+
 </div>
 
 
