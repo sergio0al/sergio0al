@@ -20,6 +20,13 @@
 ![sergio0al Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio0al&theme=tokyonight&layout=compact)
 
 
+## Activity Graph 📊 :
+
+<br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## Contact Me 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](sergioalonso00075@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/sergio0.ar/)
