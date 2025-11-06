@@ -1,7 +1,8 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sergio Alonso</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+![GitHub followers](https://img.shields.io/github/followers/sergio0al?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/sergio0al?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sergio0al.repoName) <img src="https://komarev.com/ghpvc/?username=sergio0al" alt="sergio0al" />
 <!--
+
 **sergio0al/sergio0al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
