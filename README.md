@@ -39,6 +39,7 @@
 
 </div>
 
+<br>
 
 ## Contact Me 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](sergioalonso00075@gmail.com)
