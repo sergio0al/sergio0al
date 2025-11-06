@@ -3,9 +3,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/sergio0al?style=social) <!--![GitHub User's stars](https://img.shields.io/github/stars/sergio0al?style=social)--> <img src="https://komarev.com/ghpvc/?username=sergio0al" alt="sergio0al" />
 
 
-<h3>About Me</h3>
+## Contact Me 
 <hr>
-
 
 <pre>
 💻 I am currently studying *Desarrollo de Aplicaciones Web (DAW)*  
