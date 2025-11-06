@@ -3,8 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/sergio0al?style=social) <!--![GitHub User's stars](https://img.shields.io/github/stars/sergio0al?style=social)--> <img src="https://komarev.com/ghpvc/?username=sergio0al" alt="sergio0al" />
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+![sergio0al Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio0al&theme=tokyonight&layout=compact)
 
 <!--
 
