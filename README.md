@@ -1,7 +1,4 @@
-<div width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
-</div>
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sergio Alonso</h1>s
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sergio Alonso</h1>
 
 <!--
 **sergio0al/sergio0al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
