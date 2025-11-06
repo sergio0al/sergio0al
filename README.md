@@ -7,14 +7,12 @@
 <hr>
 
 <pre>
-💻 I am mainly a Backend Developer
-📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
-📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
-🌱 Learning about efficient designs for scalable systems
-🌟 Main language: Java 😁
-🚩 Interested in Server Side Application development
-😃 I look forward to collaborate on impactful projects
+💻 I am currently studying *Desarrollo de Aplicaciones Web (DAW)*  
+🎓 I completed *Sistemas Microinformáticos y Redes (SMX)*
+🧠 I have a strong interest in Web Development and Software Engineering  
+⚙️ Learning about backend and frontend technologies  
+🌐 Familiar with HTML, CSS, JavaScript, and basic networking concepts  
+🚀 Eager to keep improving and build real-world projects  
 </pre>
 
 
