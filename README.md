@@ -5,6 +5,7 @@
 
 ## About Me
 
+<br>
 <pre>
 💻 I am currently studying *Desarrollo de Aplicaciones Web (DAW)*  
 🎓 I completed *Sistemas Microinformáticos y Redes (SMX)*
