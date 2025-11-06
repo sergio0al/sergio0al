@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sergio Alonso</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/sergio0al?style=social) ![WorkTime](https://wakatime.com/badge/user/sergio0al) <!--![GitHub User's stars](https://img.shields.io/github/stars/sergio0al?style=social)--> <img src="https://komarev.com/ghpvc/?username=sergio0al" alt="sergio0al" />
+![GitHub followers](https://img.shields.io/github/followers/sergio0al?style=social) <!--![GitHub User's stars](https://img.shields.io/github/stars/sergio0al?style=social)--> <img src="https://komarev.com/ghpvc/?username=sergio0al" alt="sergio0al" />
 
 
 ![sergio0al Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio0al&theme=tokyonight&layout=compact)
